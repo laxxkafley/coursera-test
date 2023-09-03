@@ -1,0 +1,51 @@
+/*basic style*/
+
+
+body {
+    background-color: white;
+}
+
+section {
+    position: relative;
+    padding: 15px;
+    width: 90%;
+}
+
+p {
+    position: relative;
+    clear: right;
+}
+
+
+.sub1 {
+    float: right;
+    /* margin: -3px -3px 0px; */
+
+}
+
+.sub2 {
+       float: right;
+    margin: -3px -3px 0px;
+
+}
+
+.sub3 {
+    float: right;
+    margin: -3px -3px 0px;
+    
+    
+
+}
+
+.content1 {
+    padding: 5px;
+    border: none;
+    background-color: gray;
+    font-family: Helvetica;
+    color: black;
+    margin: 3px ;
+    height: 150px;
+    overflow: auto;
+}
+
+
